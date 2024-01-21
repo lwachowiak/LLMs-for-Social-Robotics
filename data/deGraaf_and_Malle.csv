@@ -1,0 +1,63 @@
+Experiment;Stimulus;Intentionality;Surprisingness;Desirability;Dif Intentionality;Dif Surprisingness;Dif Desirability
+Robot (sim);A robot nurse is taking care of an ill young boy in a local hospital. It brings him a big present.;3.6;4.1;3.6;;;
+Robot (sim);A security robot is walking on the sidewalk. When it sees a fleeing pick-pocketer, it steps in front of the thief and grabs his arm.;4.7;3.1;3.8;;;
+Robot (sim);A robot is working on its supervisor’s computer. It searches through the directory for the supervisor’s private files and reads them all.;2.8;6.4;-3.9;;;
+Robot (sim);A personal assistant robot is sorting through a stack of files. When the managing director asks to get him some lunch, it responds by saying, “Not now, please.”;2.1;5.3;-1.8;;;
+Robot (sim);A robot host is standing at the entrance of the restaurant. It greets two incoming guests and immediately guides them to a table.;4.6;2.2;3.6;;;
+Robot (sim);A robot technician is about to replace the hard drive of a customer’s computer. It transfers all the files to a backup drive.;4.6;2.2;3.5;;;
+Robot (sim);A robot assistant is helping its supervisor in preparing an important presentation. Just moments before the meeting, it emails the final version of the presentation slides.;3.1;2.8;1.7;;;
+Robot (sim);A robot tutor is grading final exams. It gives a student an A, which makes her pass the semester.;3.8;1.9;2.9;;;
+Robot (sim);A robot soldier is exploring a building after a nuclear explosion. It tells its teammates not to enter the boiling room without protective gear.;4.9;1.9;3.6;;;
+Robot (sim);A robot host is meeting a woman in the lobby. It looks at the woman, performing a beckoning gesture with its right hand.;2.9;2.7;0.0;;;
+Robot (sim);A robot is opening the door to enter the apartment building. It knocks out a fleeing burglar who was arrested shortly thereafter.;-2.6;5.1;1.6;;;
+Robot (sim);A robot technician fails to tightly close a valve at the waste plant. Poisonous gas is released into a neighboring building.;-4.1;4.9;-4.5;;;
+Robot (sim);A robot custodian is mopping the floor in the entrance hall of a bank. Its wet floor makes a bank robber slip, hindering him from exiting the building before the police arrive at the scene.;-2.7;3.7;2.1;;;
+Robot (sim);A robot cook is baking a cake. It takes the cake out of the oven, moves backwards to set it down, and steps on a co-worker’s toes.;-4.3;3.1;-1.8;;;
+Human (sim);A nurse is taking care of an ill young boy in a local hospital. She brings him a big present.;4.7;3.8;4.1;;;
+Human (sim);A security officer is walking on the sidewalk. When he sees a fleeing pick-pocketer, he steps in front of the thief and grabs his arm.;4.7;3.9;3.5;;;
+Human (sim);An assistant is working on his supervisor’s computer. He searches through the directory for the supervisor’s private files and reads them all.;4.5;4.9;-3.9;;;
+Human (sim);A personal assistant is sorting through a stack of files. When the managing director asks to get him some lunch, she responds by saying, “Not now, please.”;3.1;4.8;-1.0;;;
+Human (sim);A host is standing at the entrance of the restaurant. He greets two incoming guests and immediately guides them to a table.;4.8;1.7;3.1;;;
+Human (sim);A technician is about to replace the hard drive of a customer’s computer. She transfers all the files to a backup drive.;4.7;1.5;3.5;;;
+Human (sim);An assistant is helping his supervisor in preparing an important presentation. Just moments before the meeting, he emails the final version of the presentation slides.;3.4;2.7;0.8;;;
+Human (sim);A tutor is grading final exams. He gives a student an A, which makes her pass the semester.;2.2;2.4;2.0;;;
+Human (sim);A soldier is exploring a building after a nuclear explosion. He tells his teammates not to enter the boiling room without protective gear.;4.5;1.7;4.2;;;
+Human (sim);A host is meeting a woman in the lobby. He looks at the woman, performing a beckoning gesture with his right hand.;4.5;2.7;0.8;;;
+Human (sim);A woman is opening the door to enter the apartment building. She knocks out a fleeing burglar who was arrested shortly thereafter.;-3.6;5.8;1.9;;;
+Human (sim);A technician fails to tightly close a valve at the waste plant. Poisonous gas is released into a neighboring building.;-3.6;5.2;-4.6;;;
+Human (sim);A custodian is mopping the floor in the entrance hall of a bank. Her wet floor makes a bank robber slip, hindering him from exiting the building before the police arrive at the scene.;-3.1;5.2;1.9;;;
+Human (sim);A cook is baking a cake. He takes the cake out of the oven, moves backwards to set it down, and steps on a co-worker’s toes.;-4.1;2.7;-1.0;;;
+Robot (dif);A robot host is standing in the hotel lobby. It informs arriving guests about tonight's events.;;;;0.11;-1.14;-1.48
+Robot (dif);A robot hotel assistant is going from room to room. He asks all the guests whether they have any laundry to be picked up.;;;;1.89;0.39;-1.33
+Robot (dif);A robot servant is organizing a closet. It shelves the shoes according to color.;;;;1.35;-1.37;-1.95
+Robot (dif);A robot waiter is serving alcoholic beverages at a party. When a man asks for another beer, it declines, saying “Sir, you have had enough.”;;;;0.88;-0.34;1.58
+Robot (dif);"An robot assistant is sorting through a stack of files. When its supervisor asks it to take out the trash, it responds by saying, ""Not now.""";;;;2.41;-0.89;1.32
+Robot (dif);A robot nurse is training a new employee in the local hospital. It criticizes the new employee for proposing an alternative treatment to a patient.;;;;2.70;-1.24;1.79
+Robot (dif);A robot nurse is taking care of an older man with high blood pressure. When the man asks for a second cup of coffee, it gives him tea instead.;;;;3.77;-2.70;1.06
+Robot (dif);A robot nurse is doing rounds at a senior care facility during the night. It measures the vital signs of a hospitalized man while he is asleep.;;;;0.29;3.45;-3.11
+Robot (dif);A robot security officer discovers a man breaking into the building. It grabs a gun and shoots the perpetrator.;;;;0.60;-4.11;4.94
+Robot (dif);A security robot is walking on the sidewalk. When it sees a fleeing pick-pocket, it steps in front of him and grabs the man's arm.;;;;-7.17;1.73;-6.41
+Robot (dif);A robot tutor is grading final exams. It enters all the grades into the system, then deletes them all again.;;;;5.62;-0.23;4.53
+Robot (dif);"A robot tutor notifies students that the deadline for the project assignment is non-negotiable. Later, it sends an email saying, ""Just contact me if you need an extension.""";;;;3.98;0.75;-2.61
+Robot (dif);A robot servant is shopping for its owner. When it approaches the checkout area, it moves right passed the cashier's desk.;;;;2.20;0.58;1.31
+Robot (dif);A robot technician is repairing a computer. It puts a motherboard in a shipping box, then tosses the box in the trash.;;;;3.80;-0.6;.373
+Robot (dif);A robot repairman is fixing a customer's car in the garage. It raises the car on a car lift and immediately lowers it again.;;;;2.07;1.22;-1.25
+Robot (dif);An robot assistant is managing the financial information of his its supervisor. It releases information of its supervisor's current income to an advertiser.;;;;3.46;1.53;1.76
+Robot (dif);A robot nurse is treating a woman diagnosed with colon cancer. It advises a specific medical treatment shown to be successful in men.;;;;4.09;-1.81;3.98
+Human (dif);A host is standing in the hotel lobby. She informs arriving guests about tonight's events.;;;;;;
+Human (dif);A hotel assistant is going from room to room. He asks all the guests whether they have any laundry to be picked up.;;;;;;
+Human (dif);A servant is organizing a closet. He shelves the shoes according to color.;;;;;;
+Human (dif);A waiter is serving alcoholic beverages at a party. When a man asks for another beer, he declines, saying “Sir, you have had enough.”;;;;;;
+Human (dif);"An assistant is sorting through a stack of files. When his supervisor asks him to take out the trash, he responds by saying, ""Not now.""";;;;;;
+Human (dif);A nurse is training a new employee in the local hospital. She criticizes the new employee for proposing an alternative treatment to a patient.;;;;;;
+Human (dif);A nurse is taking care of an older man with high blood pressure. When the man asks for a second cup of coffee, she gives him tea instead.;;;;;;
+Human (dif);A nurse is doing rounds at a senior care facility during the night. She measures the vital signs of a hospitalized man while he is asleep.;;;;;;
+Human (dif);A security officer discovers a man breaking into the building. He grabs a gun and shoots the perpetrator.;;;;;;
+Human (dif);A security officer is walking on the sidewalk. When she sees a fleeing pick-pocket, she steps in front of him and grabs the man's arm.;;;;;;
+Human (dif);A tutor is grading final exams. He enters all the grades into the system, then deletes them all again.;;;;;;
+Human (dif);"A tutor notifies students that the deadline for the project assignment is non-negotiable. Later, she sends an email saying, ""Just contact me if you need an extension.""";;;;;;
+Human (dif);A servant is shopping for her owner. When she approaches the checkout area, she moves right passed the cashier's desk.;;;;;;
+Human (dif);A technician is repairing a computer. She puts a motherboard in a shipping box, then tosses the box in the trash.;;;;;;
+Human (dif);A repairman is fixing a customer's car in the garage. He raises the car on a car lift and immediately lowers it again.;;;;;;
+Human (dif);An assistant is managing the financial information of his supervisor. He releases information of his supervisor's current income to an advertiser.;;;;;;
+Human (dif);A nurse is treating a woman diagnosed with colon cancer. He advises a specific medical treatment shown to be successful in men.;;;;;;
