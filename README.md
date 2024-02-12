@@ -1,7 +1,9 @@
-# LLMs-for-Social-Robotics
+# Are Large Language Models Aligned with People's Social Intuitions for Human–Robot Interactions?
 
 In this paper, we investigate the alignment between LLMs and people in experiments from social HRI.
-![Experiment Overview](https://github.com/lwachowiak/LLMs-for-Social-Robotics/blob/main/overview.png)
+
+<img src="https://github.com/lwachowiak/LLMs-for-Social-Robotics/blob/main/overview.png" width="600" />
+
 
 ## Results 
 Correlations are highest with GPT-4, as shown in the following scatterplots:
