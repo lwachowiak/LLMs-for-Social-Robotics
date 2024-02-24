@@ -17,3 +17,6 @@ Correlations are highest with GPT-4, as shown in the following scatterplots:
 
 
 For full results, refer to the paper. Scatterplots for other models can be found [here](https://github.com/lwachowiak/LLMs-for-Social-Robotics/tree/main/code/Experiment_1/plots) for Experiment 1 and [here](https://github.com/lwachowiak/LLMs-for-Social-Robotics/tree/main/code/Experiment_2/plots) for Experiment 2. 
+
+
+To get the video stimuli use the following GitHub: https://github.com/lwachowiak/HRI-Video-Survey-on-Preferred-Robot-Responses 
