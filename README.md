@@ -20,3 +20,16 @@ For full results, refer to the paper. Scatterplots for other models can be found
 
 
 To get the video stimuli use the following GitHub: https://github.com/lwachowiak/HRI-Video-Survey-on-Preferred-Robot-Responses 
+
+
+# arXiv
+```
+@misc{wachowiak2024large,
+      title={Are Large Language Models Aligned with People's Social Intuitions for Human-Robot Interactions?}, 
+      author={Lennart Wachowiak and Andrew Coles and Oya Celiktutan and Gerard Canal},
+      year={2024},
+      eprint={2403.05701},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
