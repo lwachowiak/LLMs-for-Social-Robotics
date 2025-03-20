@@ -5,15 +5,15 @@ In this paper, we investigate the alignment between LLMs and people in experimen
 <img src="https://github.com/lwachowiak/LLMs-for-Social-Robotics/blob/main/overview.png" width="600" />
 
 
-## [arXiv](https://arxiv.org/abs/2403.05701v1)
+## [arXiv](https://arxiv.org/abs/2403.05701v1) / [IROS](https://ieeexplore.ieee.org/document/10801325)
 ```
-@misc{wachowiak2024large,
-      title={Are Large Language Models Aligned with People's Social Intuitions for Human-Robot Interactions?}, 
-      author={Lennart Wachowiak and Andrew Coles and Oya Celiktutan and Gerard Canal},
-      year={2024},
-      eprint={2403.05701},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+@INPROCEEDINGS{wachowiak2024large,
+  author={Wachowiak, Lennart and Coles, Andrew and Celiktutan, Oya and Canal, Gerard},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Are Large Language Models Aligned with People’s Social Intuitions for Human–Robot Interactions?}, 
+  year={2024},
+  pages={2520-2527},
+  doi={10.1109/IROS58592.2024.10801325}
 }
 ```
 
